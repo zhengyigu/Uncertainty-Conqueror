@@ -1,4 +1,4 @@
-# Uncertainty-Conqueror
+# Uncertainty Conqueror: Curiosity-Driven Zero-Shot Object Navigation with Vision-Language Models
 
 ### Abstract
 
